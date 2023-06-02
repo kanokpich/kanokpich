@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanokpich Chiaywan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kanokpich Chaiywan</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanokpich" alt="kanokpich" /></a> </p>
 
